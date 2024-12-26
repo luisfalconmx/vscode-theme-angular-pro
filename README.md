@@ -1,5 +1,5 @@
 <!-- START .github/README_TEMPLATE/vscode-theme.template.md -->
-<h1 align="center">Vscode Theme Angular Pro</h1>
+<h1 align="center">vscode-theme-angular-pro</h1>
 
 <p align="center">
   <b>Angular Pro Theme for Visual Studio Code</b><br />
