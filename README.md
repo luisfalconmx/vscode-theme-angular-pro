@@ -19,7 +19,7 @@
 Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
 
 ```sh
-ext install luisfalconmx.Vscode Theme Angular Pro
+ext install luisfalconmx.vscode-theme-angular-pro
 ```
 
 ## Contributing
