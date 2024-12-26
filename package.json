@@ -1,0 +1,75 @@
+{
+  "name": "vscode-theme-angular-pro",
+  "description": "Angular Pro Theme for Visual Studio Code",
+  "displayName": "Angular Pro Theme",
+  "publisher": "luisfalconmx",
+  "license": "MIT",
+  "author": "luisfalconmx",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "scripts": {
+    "format": "prettier --write . --ignore-unknown"
+  },
+  "homepage": "https://github.com/luisfalconmx/vscode-theme-angular-pro",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luisfalconmx/vscode-theme-angular-pro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/luisfalconmx/vscode-theme-angular-pro/issues"
+  },
+  "galleryBanner": {
+    "color": "#01020E",
+    "theme": "dark"
+  },
+  "icon": "images/vscode-theme-angular-pro.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "angular pro dark theme",
+    "angular pro dark",
+    "angular-pro-theme",
+    "angular pro theme",
+    "angular pro",
+    "theme angular pro",
+    "green",
+    "dark",
+    "theme",
+    "vscode",
+    "luisfalconmx",
+    "luisfalconmx/angular-pro-theme",
+    "angular",
+    "angular theme",
+    "dark theme",
+    "dark",
+    "vscode",
+    "vscode theme",
+    "vscode-theme",
+    "vscode-extension",
+    "luisfalconmx",
+    "luisfalconmx theme",
+    "dark theme",
+    "one dark pro",
+    "palenight",
+    "monokai",
+    "atom",
+    "sublime text",
+    "themes",
+    "cobalt"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Angular Pro Theme",
+        "uiTheme": "vs-dark",
+        "path": "./theme/angular-pro-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  }
+}
